@@ -1,0 +1,32 @@
+c:\users\bugra\documents\visual studio 2015\Projects\KaloriHesabi\KaloriHesabi\bin\Debug\KaloriHesabi.exe.config
+C:\Users\Bugra\Documents\Visual Studio 2015\Projects\KaloriHesabi\KaloriHesabi\bin\Debug\KaloriHesabi.exe
+C:\Users\Bugra\Documents\Visual Studio 2015\Projects\KaloriHesabi\KaloriHesabi\bin\Debug\KaloriHesabi.pdb
+C:\Users\Bugra\Documents\Visual Studio 2015\Projects\KaloriHesabi\KaloriHesabi\obj\Debug\KaloriHesabi.csprojResolveAssemblyReference.cache
+C:\Users\Bugra\Documents\Visual Studio 2015\Projects\KaloriHesabi\KaloriHesabi\obj\Debug\KaloriHesabi.Bilgiler.resources
+C:\Users\Bugra\Documents\Visual Studio 2015\Projects\KaloriHesabi\KaloriHesabi\obj\Debug\KaloriHesabi.Form1.resources
+C:\Users\Bugra\Documents\Visual Studio 2015\Projects\KaloriHesabi\KaloriHesabi\obj\Debug\KaloriHesabi.Hesapla.resources
+C:\Users\Bugra\Documents\Visual Studio 2015\Projects\KaloriHesabi\KaloriHesabi\obj\Debug\KaloriHesabi.Properties.Resources.resources
+C:\Users\Bugra\Documents\Visual Studio 2015\Projects\KaloriHesabi\KaloriHesabi\obj\Debug\KaloriHesabi.Yonetici.resources
+C:\Users\Bugra\Documents\Visual Studio 2015\Projects\KaloriHesabi\KaloriHesabi\obj\Debug\KaloriHesabi.csproj.GenerateResource.Cache
+C:\Users\Bugra\Documents\Visual Studio 2015\Projects\KaloriHesabi\KaloriHesabi\obj\Debug\KaloriHesabi.exe
+C:\Users\Bugra\Documents\Visual Studio 2015\Projects\KaloriHesabi\KaloriHesabi\obj\Debug\KaloriHesabi.pdb
+C:\Users\Bugra\Documents\Visual Studio 2015\Projects\KaloriHesabi\KaloriHesabi\obj\Debug\KaloriHesabi.Yonetici2.resources
+C:\Users\Bugra\Desktop\Proje\KaloriHesabi\KaloriHesabi\bin\Debug\KaloriHesabi.exe.config
+C:\Users\Bugra\Desktop\Proje\KaloriHesabi\KaloriHesabi\obj\Debug\KaloriHesabi.exe
+C:\Users\Bugra\Desktop\Proje\KaloriHesabi\KaloriHesabi\obj\Debug\KaloriHesabi.pdb
+C:\Proje\KaloriHesabi\KaloriHesabi\bin\Debug\KaloriHesabi.exe.config
+C:\Proje\KaloriHesabi\KaloriHesabi\obj\Debug\KaloriHesabi.exe
+C:\Proje\KaloriHesabi\KaloriHesabi\obj\Debug\KaloriHesabi.pdb
+C:\Proje\KaloriHesabi\KaloriHesabi\bin\Debug\KaloriHesabi.exe
+C:\Proje\KaloriHesabi\KaloriHesabi\bin\Debug\KaloriHesabi.pdb
+C:\Proje\KaloriHesabi\KaloriHesabi\obj\Debug\KaloriHesabi.csprojResolveAssemblyReference.cache
+C:\Proje\KaloriHesabi\KaloriHesabi\obj\Debug\KaloriHesabi.Bilgiler.resources
+C:\Proje\KaloriHesabi\KaloriHesabi\obj\Debug\KaloriHesabi.Form1.resources
+C:\Proje\KaloriHesabi\KaloriHesabi\obj\Debug\KaloriHesabi.Hesapla.resources
+C:\Proje\KaloriHesabi\KaloriHesabi\obj\Debug\KaloriHesabi.Properties.Resources.resources
+C:\Proje\KaloriHesabi\KaloriHesabi\obj\Debug\KaloriHesabi.Yonetici.resources
+C:\Proje\KaloriHesabi\KaloriHesabi\obj\Debug\KaloriHesabi.Yonetici2.resources
+C:\Proje\KaloriHesabi\KaloriHesabi\obj\Debug\KaloriHesabi.csproj.GenerateResource.Cache
+C:\Users\batuh\Desktop\Proje\KaloriHesabi\KaloriHesabi\obj\Debug\KaloriHesabi.csprojAssemblyReference.cache
+C:\Users\batuh\Desktop\Proje\KaloriHesabi\KaloriHesabi\obj\Debug\KaloriHesabi.exe
+C:\Users\batuh\Desktop\Proje\KaloriHesabi\KaloriHesabi\obj\Debug\KaloriHesabi.pdb
